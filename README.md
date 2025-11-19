@@ -89,24 +89,26 @@ Analyzed **5,856 marketing campaigns** across **12 channels** over 16 months (Ju
 ## 📊 Project Visualizations
 
 ### Tableau Interactive Dashboard
-![Tableau Dashboard](screenshots/tableau_dashboard_full.png)
+![Tableau Dashboard](screensh<img width="1440" height="900" alt="screenshots:tableau_dashboard_full" src="https://github.com/user-attachments/assets/c0c20d90-6709-4934-b894-be1960837b11" />
+ots/tableau_dashboard_full.png)
 *Interactive dashboard with filters showing channel performance, monthly trends, conversion funnel, and budget allocation*
 
 ---
 
 ### Excel Financial Analysis
-
-![Excel Budget Optimizer](screenshots/excel_budget_optimizer.png)
+<img width="1210" height="655" alt="Screenshot 2025-11-19 at 1 34 47 PM" src="https://github.com/user-attachments/assets/76e79845-3bb1-4d40-b04b-b3e69033cc67" />
 *Budget reallocation model showing current vs. recommended spend with ROI projections*
 
-![Excel Channel Analysis](screenshots/excel_channel_analysis.png)
+![Excel Channel Analysis](screenshots/excel_chann<img width="616" height="564" alt="Screenshot 2025-11-19 at 1 36 10 PM" src="https://github.com/user-attachments/assets/385fbe4a-9b02-4a79-a464-d39014139bd6" />
+el_analysis.png)
 *Channel performance ranking with ROAS, CAC, and conversion metrics*
 
 ---
 
 ### SQL Query Results
 
-![MySQL Analysis](screenshots/mysql_budget_recommendations.png)
+![MySQL Analysis](screenshots/mysql_budget_rec<img width="1146" height="669" alt="Screenshot 2025-11-19 at 1 38 30 PM" src="https://github.com/user-attachments/assets/f4cca796-af1c-480e-ac94-69ee499b7f71" />
+ommendations.png)
 *Budget optimization query using CTEs to identify reallocation opportunities*
 
 ---
