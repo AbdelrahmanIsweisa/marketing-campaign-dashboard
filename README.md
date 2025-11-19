@@ -97,10 +97,11 @@ ots/tableau_dashboard_full.png)
 
 ### Excel Financial Analysis
 <img width="621" height="582" alt="Screenshot 2025-11-17 at 1 05 09 PM" src="https://github.com/user-attachments/assets/81003645-6681-4db0-928d-cec91fc53886" />
+
 *Budget reallocation model showing current vs. recommended spend with ROI projections*
 
-![Excel Channel Analysis](screenshots/excel_chann<img width="616" height="564" alt="Screenshot 2025-11-19 at 1 36 10 PM" src="https://github.com/user-attachments/assets/385fbe4a-9b02-4a79-a464-d39014139bd6" />
-el_analysis.png)
+<img width="577" height="497" alt="Screenshot 2025-11-17 at 1 06 21 PM" src="https://github.com/user-attachments/assets/169acc5a-19c0-4b9d-bb5e-f5864392e77d" />
+
 *Channel performance ranking with ROAS, CAC, and conversion metrics*
 
 ---
