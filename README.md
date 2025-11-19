@@ -96,7 +96,7 @@ ots/tableau_dashboard_full.png)
 ---
 
 ### Excel Financial Analysis
-<img width="1210" height="655" alt="Screenshot 2025-11-19 at 1 34 47 PM" src="https://github.com/user-attachments/assets/76e79845-3bb1-4d40-b04b-b3e69033cc67" />
+<img width="621" height="582" alt="Screenshot 2025-11-17 at 1 05 09 PM" src="https://github.com/user-attachments/assets/81003645-6681-4db0-928d-cec91fc53886" />
 *Budget reallocation model showing current vs. recommended spend with ROI projections*
 
 ![Excel Channel Analysis](screenshots/excel_chann<img width="616" height="564" alt="Screenshot 2025-11-19 at 1 36 10 PM" src="https://github.com/user-attachments/assets/385fbe4a-9b02-4a79-a464-d39014139bd6" />
