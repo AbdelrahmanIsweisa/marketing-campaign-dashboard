@@ -9,19 +9,19 @@
 
 ---
 
-🎯 Project Overview
+## 🎯 Project Overview
 
 Analyzed **5,856 marketing campaigns** across **12 channels** over 16 months (July 2024 - October 2025) to optimize a $3.9M advertising budget and maximize return on ad spend (ROAS).
 
-Key Business Impact
-- 💰 Identified $229K in wasted spend on Display Ads (1.74x ROAS)
-- 📈 Recommended reallocation** to Email Marketing (288x ROAS) and Referral (64x ROAS)
-- 🎯 Projected 15% ROI improvement (+$15M revenue potential)
-- ⚡ Budget-neutral strategy - reallocate existing budget, no additional spend needed
+### Key Business Impact
+- 💰 **Identified $229K in wasted spend** on Display Ads (1.74x ROAS)
+- 📈 **Recommended reallocation** to Email Marketing (288x ROAS) and Referral (64x ROAS)
+- 🎯 **Projected 15% ROI improvement** (+$15M revenue potential)
+- ⚡ **Budget-neutral strategy** - reallocate existing budget, no additional spend needed
 
 ---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 | Tool | Purpose |
 |------|---------|
@@ -35,9 +35,9 @@ Key Business Impact
 
 ---
 
-📈 Key Findings
+## 📈 Key Findings
 
-🏆 Top Performing Channels
+### 🏆 Top Performing Channels
 
 | Channel | ROAS | CAC | Budget Action |
 |---------|------|-----|---------------|
@@ -45,7 +45,7 @@ Key Business Impact
 | **Referral Program** | 64.39x | $2.32 | 🟢 Increase 100% (+$57K) |
 | **Affiliate Marketing** | 11.13x | $11.31 | 🟢 Increase 50% (+$112K) |
 
-📉 Underperforming Channels
+### 📉 Underperforming Channels
 
 | Channel | ROAS | Current Spend | Issue |
 |---------|------|---------------|-------|
@@ -53,7 +53,7 @@ Key Business Impact
 | **Twitter Ads** | 2.11x | $270,660 | ⚠️ Declining performance |
 | **LinkedIn Ads** | 2.38x | $612,393 | Expensive CAC ($114.25) |
 
-📊 Conversion Funnel Analysis
+### 📊 Conversion Funnel Analysis
 ```
 73.4M Impressions (100%)
     ↓ 6.0% CTR
@@ -66,19 +66,19 @@ Key Business Impact
 
 ---
 
-💡 Strategic Recommendations
+## 💡 Strategic Recommendations
 
-Immediate Actions (Week 1)
+### Immediate Actions (Week 1)
 1. 🔴 **Cut Display Ads budget by 50%** → Save $229K
 2. 📊 **Pause campaigns with ROAS < 1.5x**
 3. 🔍 **Audit creative assets** for underperforming channels
 
-Scale Winners (Weeks 2-3)
+### Scale Winners (Weeks 2-3)
 1. 🟢 **Double Email Marketing budget** → Projected +$26M revenue
 2. 🟢 **Double Referral Program investment** → Expand incentive structure
 3. 🟢 **Increase Affiliate Marketing by 50%** → Onboard new partners
 
-Long-Term Optimization
+### Long-Term Optimization
 - **A/B test email subject lines** (current 24% open rate baseline)
 - **Invest in SEO** to boost Organic Search (currently 98K free conversions)
 - **Implement lead scoring** for LinkedIn campaigns (high B2B conversion)
@@ -86,12 +86,42 @@ Long-Term Optimization
 
 ---
 
-🗂️ Project Structure
+## 📊 Project Visualizations
+
+### Tableau Interactive Dashboard
+![Tableau Dashboard](screenshots/tableau_dashboard_full.png)
+*Interactive dashboard with filters showing channel performance, monthly trends, conversion funnel, and budget allocation*
+
+---
+
+### Excel Financial Analysis
+
+![Excel Budget Optimizer](screenshots/excel_budget_optimizer.png)
+*Budget reallocation model showing current vs. recommended spend with ROI projections*
+
+![Excel Channel Analysis](screenshots/excel_channel_analysis.png)
+*Channel performance ranking with ROAS, CAC, and conversion metrics*
+
+---
+
+### SQL Query Results
+
+![MySQL Analysis](screenshots/mysql_budget_recommendations.png)
+*Budget optimization query using CTEs to identify reallocation opportunities*
+
+---
+
+## 🗂️ Project Structure
 ```
 marketing-campaign-dashboard/
 ├── data/
 │   ├── marketing_campaigns.csv          # 5,856 rows, 14 columns
 │   └── Marketing_analysis.db            # MySQL database
+├── screenshots/
+│   ├── tableau_dashboard_full.png
+│   ├── excel_budget_optimizer.png
+│   ├── excel_channel_analysis.png
+│   └── mysql_budget_recommendations.png
 ├── dashboards/
 │   └── (Tableau workbook)
 ├── generate_marketing_data.py           # Data generation script
@@ -103,9 +133,9 @@ marketing-campaign-dashboard/
 
 ---
 
-🚀 How to Run This Project
+## 🚀 How to Run This Project
 
-Prerequisites
+### Prerequisites
 ```bash
 # Python 3.8+
 python --version
@@ -114,7 +144,7 @@ python --version
 pip install pandas numpy sqlalchemy plotly
 ```
 
- Steps
+### Steps
 ```bash
 # 1. Generate marketing data
 python generate_marketing_data.py
@@ -162,7 +192,7 @@ ORDER BY roas DESC;
 
 ---
 
-🎓 Skills Demonstrated
+## 🎓 Skills Demonstrated
 
 ✅ **Data Analysis** - Multi-channel campaign analysis with cohort segmentation  
 ✅ **SQL Proficiency** - Complex queries using CTEs, window functions, and aggregations  
@@ -173,7 +203,7 @@ ORDER BY roas DESC;
 
 ---
 
-📬 Connect With Me
+## 📬 Connect With Me
 
 **Abdelrahman Isweisa**
 
@@ -183,13 +213,13 @@ ORDER BY roas DESC;
 
 ---
 
-📜 License
+## 📜 License
 
 This project is open source and available under the MIT License.
 
 ---
 
-⭐ If you found this project helpful, please consider starring the repository!**
+⭐ **If you found this project helpful, please consider starring the repository!**
 
 ---
 
